@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
           child: ListView(
             children: <Widget>[
               Container(
-                height: bCon.vbSize(100),
+                height: bCon.vbSize(90),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: <Widget>[
